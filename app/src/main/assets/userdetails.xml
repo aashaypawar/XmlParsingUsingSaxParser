@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users>
+
+    <user>
+
+        <name>Satya</name>
+
+        <designation>CTO</designation>
+
+
+    </user>
+
+    <user>
+
+        <name>Ajaypal</name>
+
+        <designation>CEO</designation>
+
+
+    </user>
+
+    <user>
+
+        <name>Mark</name>
+
+        <designation>Consultant</designation>
+
+
+    </user>
+
+</users>
